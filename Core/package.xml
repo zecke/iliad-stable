@@ -225,7 +225,6 @@
   <file>GST/ILDiskDirectory.st</file>
   <file>GST/Extensions.st</file>
   <file>postLoad.st</file>
-  <file>Public/stylesheets/iliad.css</file>
   <file>Public/stylesheets/jquery-ui-1.9.2.css</file>
   <file>Public/stylesheets/images/ui-bg_glass_65_ffffff_1x400.png</file>
   <file>Public/stylesheets/images/ui-icons_222222_256x240.png</file>
@@ -240,18 +239,17 @@
   <file>Public/stylesheets/images/ui-bg_glass_75_dadada_1x400.png</file>
   <file>Public/stylesheets/images/ui-bg_highlight-soft_75_cccccc_1x100.png</file>
   <file>Public/stylesheets/images/ui-icons_cd0a0a_256x240.png</file>
-  <file>Public/images/iliad.png</file>
-  <file>Public/images/iliad_small.png</file>
+  <file>Public/stylesheets/iliad.css</file>
   <file>Public/images/ajax_loader.gif</file>
-  <file>Public/images/iliad_huge.png</file>
-  <file>Public/images/iliad_bleached.png</file>
   <file>Public/images/iliad_big.png</file>
-  <file>Public/images/iliad_tiny.png</file>
   <file>Public/images/iliad_small.png</file>
+  <file>Public/images/iliad_tiny.png</file>
   <file>Public/images/iliad_huge.png</file>
+  <file>Public/images/iliad.png</file>
+  <file>Public/images/iliad_bleached.png</file>
   <file>Public/javascripts/jquery-1.8.3.min.js</file>
   <file>Public/javascripts/jquery-ui-1.9.2.js</file>
-  <file>Public/javascripts/iliad.js</file>
   <file>Public/javascripts/no_conflict.js</file>
   <file>Public/javascripts/iliad_ie_history.html</file>
+  <file>Public/javascripts/iliad.js</file>
 </package>
